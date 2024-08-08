@@ -1,0 +1,16 @@
+{
+    "customitem1": {
+        "name": "Custom Item 1",
+        "description": "This is a custom item description.",
+        "image": "https://example.com/customitem1.png",
+        "price": 1200,
+        "rarity": "rare"
+    },
+    "customitem2": {
+        "name": "Custom Item 2",
+        "description": "This is another custom item description.",
+        "image": "https://example.com/customitem2.png",
+        "price": 1500,
+        "rarity": "epic"
+    }
+}
