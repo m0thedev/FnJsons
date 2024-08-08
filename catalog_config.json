@@ -24,18 +24,7 @@
         ],
         "price": 500
     },
-    "daily5": {
-        "itemGrants": [
-            "AthenaItemWrap:Wrap_196_TigerJaw"
-        ],
-        "price": 200
-    },
-    "daily6": {
-        "itemGrants": [
-            "AthenaItemWrap:Wrap_092_Sarong"
-        ],
-        "price": 200
-    },
+
     "featured1": {
         "itemGrants": [
             "AthenaCharacter:CID_759_Athena_Commando_F_RapVillainess"
