@@ -16,14 +16,7 @@
       "itemGrants": ["AthenaDance:EID_Aerobics"],
       "price": 0
   },
-  "daily5": {
-      "itemGrants": ["AthenaCharacter:CID_395_Athena_Commando_F_ShatterFly"],
-      "price": 0
-  },
-  "daily6": {
-      "itemGrants": ["AthenaCharacter:CID_388_Athena_Commando_M_TheBomb"],
-      "price": 0
-  },
+
   "featured1": {
       "itemGrants": ["AthenaCharacter:CID_367_Athena_Commando_F_Tropical"],
       "price": 0
@@ -31,5 +24,14 @@
   "featured2": {
       "itemGrants": ["AthenaCharacter:Character_HumanBeing"],
       "price": 0
-  }
+  },
+
+  "featured3": {
+    "itemGrants": ["AthenaCharacter:CID_395_Athena_Commando_F_ShatterFly"],
+    "price": 0
+  },
+  "featured4": {
+    "itemGrants": ["AthenaCharacter:CID_388_Athena_Commando_M_TheBomb"],
+    "price": 0
+} 
 }
