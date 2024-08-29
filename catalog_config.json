@@ -1,50 +1,35 @@
 {
-    "daily1": {
-        "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_202_AshtonBoardwalk"
-        ],
-        "price": 800
-    },
-    "daily2": {
-        "itemGrants": [
-            "AthenaItemWrap:Wrap_018_Magma"
-        ],
-        "price": 500
-    },
-    "daily3": {
-        "itemGrants": [
-            "AthenaGlider:Umbrella_Season_06"
-        ],
-        "price": 500
-    },
-    "daily4": {
-        "itemGrants": [
-            "AthenaMusicPack:MusicPack_END_Che"
-        ],
-        "price": 500
-    },
-    "daily5": {
-        "itemGrants": [
-            "AthenaDance:EID_Depart"
-        ],
-        "price": 1500
-    },
-    "daily6": {
-        "itemGrants": [
-            "AthenaCharacter:CID_052_Athena_Commando_F_PSBlue"
-        ],
-        "price": 0
-    },
-    "featured1": {
-        "itemGrants": [
-            "AthenaCharacter:CID_397_Athena_Commando_F_TreasureHunterFashion"
-        ],
-        "price": 800
-    },
-    "featured2": {
-        "itemGrants": [
-            "AthenaCharacter:CID_083_Athena_Commando_F_Tactical"
-        ],
-        "price": 2000
-    }
+  "//": "BR Item Shop Config",
+  "daily1": {
+      "itemGrants": ["AthenaCharacter:Character_HumanBeing"],
+      "price": 0
+  },
+  "daily2": {
+      "itemGrants": ["AthenaDance:EID_Breakboy"],
+      "price": 0
+  },
+  "daily3": {
+      "itemGrants": ["AthenaPickaxe:Pickaxe_ID_179_StarWand"],
+      "price": 0
+  },
+  "daily4": {
+      "itemGrants": ["AthenaDance:EID_Aerobics"],
+      "price": 0
+  },
+  "daily5": {
+      "itemGrants": ["AthenaCharacter:CID_367_Athena_Commando_F_Tropical"],
+      "price": 0
+  },
+  "daily6": {
+      "itemGrants": ["AthenaCharacter:CID_388_Athena_Commando_M_TheBomb"],
+      "price": 0
+  },
+  "featured1": {
+      "itemGrants": ["AthenaBackpack:BID_072_VikingMale"],
+      "price": 0
+  },
+  "featured2": {
+      "itemGrants": ["AthenaGlider:Glider_ID_104_Math"],
+      "price": 0
+  }
 }
